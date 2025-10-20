@@ -1,0 +1,7 @@
+groq
+jupyter
+matplotlib
+nbconvert
+numpy
+pandas
+wordfreq
